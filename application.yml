@@ -1,5 +1,8 @@
 # putting common config of all services here
 ##eureka setup
+spring:
+ application:
+  name: CONFIG-DEFAULT
 eureka:
  instance:
    prefer-ip-address: true
