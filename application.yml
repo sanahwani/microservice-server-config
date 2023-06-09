@@ -1,4 +1,4 @@
-
+# putting common config of all services here
 ##eureka setup
 eureka:
  instance:
